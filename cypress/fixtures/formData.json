@@ -1,0 +1,16 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@email.com",
+  "gender": "Male",
+  "mobileNumber": "2029182132",
+  "dateMonth": "February",
+  "dateYear": "1930",
+  "dateDay": "28",
+  "subject": "Economics",
+  "hobbie": "Music",
+  "image": "image.jpg",
+  "currentAddress": "Joniawas Rd, Jatola, Haryana 122506, India",
+  "state": "NCR",
+  "city": "Delhi"
+}
